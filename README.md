@@ -1,9 +1,9 @@
 <img src="portada.png ">
-- 👋 Hola soy Elsa Lysbet RoCa
-- 👀 Me interesa el uso de la IA en el proceso enseñanza- aprendizaje.
+- 👋 Hola soy Elsa Lysbet Rodríguez Castañeda
+- 👀 Me interesa el uso de la IA en el proceso enseñanza- aprendizaje 
 - 🌱Soy MVZ
-- 💞️ Me interesa colaborar en proyectos de IA 
-- 📫 How to reach me ...
+- 💞️ Me interesa colaborar en proyectos de IA y nutrición animal
+- 📫
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
